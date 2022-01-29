@@ -1,9 +1,13 @@
-latest/meta-data
+playground
+tapprd
+api
+.well-known/openid-configuration
+.well-known/jwks.json
+.well-known/oauth-authorization-server
 notifications
 saml
 robots.txt
 docker
-jenkins
 .access
 .addressbook
 .bash_history
@@ -478,6 +482,10 @@ gnetoo
 good
 gotourl
 gozila
+graphql
+graphiql
+graphql.php
+graphql/console
 graph_view
 grapher
 graphics
