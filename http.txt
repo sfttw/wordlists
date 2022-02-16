@@ -1,3 +1,8 @@
+log/production.log
+config/app_env.yml
+config/database.yml
+config/secrets.yml
+.github
 playground
 tapprd
 api
